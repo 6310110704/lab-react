@@ -1,0 +1,1 @@
+commit 1 เปลี่ยนคำตรง yeah เป็น very good และเปลี่ยนอีกคำคือ reset, next attemp เป็น try one more time
